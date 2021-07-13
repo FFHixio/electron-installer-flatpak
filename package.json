@@ -46,7 +46,7 @@
     "eslint-plugin-promise": "^3.0.0",
     "eslint-plugin-standard": "^2.0.0",
     "mocha": "^3.0.0",
-    "retry": "^0.10.0",
+    "retry": "^0.13.1",
     "rimraf": "^2.5.1"
   }
 }
